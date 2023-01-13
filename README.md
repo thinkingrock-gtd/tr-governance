@@ -9,4 +9,4 @@ Instead, here we'll share approved final documentation about various matters of 
 
 ### Content structure
 Other than few general files, all the content will be grouped in directories. In detail:
-- TREP: here you'll find the "ThinkingRock Evolution Proposals" (like Java and Python projects are doing); you can look at TREP-0 to find the proposal list
+- TREP: here you'll find the "ThinkingRock Evolution Proposals" (like Java and Python projects are doing); you can look at [TREP 0](TREP/TREP-0.md) to find the proposal list
