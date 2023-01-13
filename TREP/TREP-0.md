@@ -1,5 +1,9 @@
 
-This TREP contains the index of all ThinkingRock Enhancement Proposals, known as TREPs. TREP numbers are assigned by the TREP editors, and once assigned are never changed. The version control history of the TREP texts represent their historical record.
+This TREP contains the index of all ThinkingRock Enhancement Proposals, known as TREPs. 
+
+TREP numbers are assigned by the TR core team, and once assigned are never changed. 
+
+The version control history of the TREP texts represent their historical record.
 
 | Status | No. | Title |
 |--------|-----|-------|
