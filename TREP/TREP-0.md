@@ -9,3 +9,5 @@ This TREP contains the index of all ThinkingRock Enhancement Proposals, known as
 | Active | 4   | Project code of conduct |
 | Active | 5   | TR desktop code project board |
 | Active | 6   | Usage of repositories, discussions and issues |
+| Draft  | 7   | Sample markdown TREP Template |
+
