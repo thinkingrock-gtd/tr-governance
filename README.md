@@ -1,4 +1,4 @@
-## About tr-discuss-governance repository
+## About tr-governance repository
 Here you won't find code related to any project included into the ThinkingRock organization (from now on: TR).
 
 Instead, here we'll share approved final documentation about various matters of the TR project ...like:
